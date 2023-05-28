@@ -1,8 +1,16 @@
 :root {
     --red: #cc0d0d;
+    --black: #222222;
+    --background: #ffffff;
+    --grey-bar: #f0f1f3;
 }
 
 body {
-    background: white;
+    background-color: var(--background);
     font-family: 'Rubik';
+}
+
+.icon{
+    width: 24px;
+    height: 24px;
 }
