@@ -5,13 +5,13 @@ nav {
     justify-content: space-between;
     align-items: center;
     margin: auto;
-    padding: 2em;
+    padding: 40px;
     
     /* flex-direction: column; */
 }
 
 .menu-link {
-    font-size: 0.875em;
+    font-size: 14px;
     text-transform: uppercase;
     color: var(--black);
     padding: 0px 12px;
@@ -28,7 +28,7 @@ nav {
 }
 
 .menu-link-logo {
-    font-size: 1.875em;
+    font-size: 30px;
     color: var(--black);
     padding: 0px 24px;
 }
@@ -47,7 +47,7 @@ nav {
 .bag-shopping-amount {
     position: relative;
     color: var(--red);
-    font-size: 0.6875em;
+    font-size: 11px;
     Left: -8px;
     top: -24px;
 }
