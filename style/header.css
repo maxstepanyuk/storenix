@@ -14,8 +14,9 @@ nav {
     font-size: 0.875em;
     text-transform: uppercase;
     color: var(--black);
-
-    display: none;
+    padding: 0px 12px;
+    
+    /* display: none; */
 }
 
 .menu-link-selected {
@@ -28,6 +29,8 @@ nav {
 
 .menu-link-logo {
     font-size: 1.875em;
+    color: var(--black);
+    padding: 0px 24px;
 }
 
 .menu-link-logo:hover {
