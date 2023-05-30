@@ -1,0 +1,52 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 0px;
+
+    /* flex-direction: column; */
+}
+
+.menu-link {
+    font-size: 14px;
+    text-transform: uppercase;
+    color: var(--black);
+    padding: 0px 12px;
+
+    /* display: none; */
+}
+
+.menu-link-selected {
+    color: var(--red);
+}
+
+.menu-link:hover {
+    color: var(--red);
+}
+
+.menu-link-logo {
+    font-size: 30px;
+    color: var(--black);
+    padding: 0px 24px;
+}
+
+.menu-link-logo:hover {
+    color: var(--red);
+}
+
+.menu-buttons,
+.menu-links {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    /* flex-direction: column; */
+}
+
+.bag-shopping-amount {
+    position: relative;
+    color: var(--red);
+    font-size: 11px;
+    Left: -8px;
+    top: -24px;
+}

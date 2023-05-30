@@ -1,0 +1,32 @@
+.breadcrum-section {
+    background-color: var(--grey-bar);
+}
+
+.breadcrum-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 0px;
+}
+
+.breadcrum-current-page {
+    font-size: 36px;
+    color: var(--black);
+}
+
+ul.breadcrumb li {
+    display: inline;
+    color: var(--grey-breadcrum);
+    font-size: 14px;
+}
+
+ul.breadcrumb li a {
+    color: var(--black);
+}
+
+ul.breadcrumb li+li:before {
+    padding: 8px;
+    color: var(--black);
+    content: ">";
+}

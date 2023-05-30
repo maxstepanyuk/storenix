@@ -1,0 +1,26 @@
+:root {
+    --red: #cc0d0d;
+    --black: #222222;
+    --background: #ffffff;
+    --grey-bar: #f0f1f3;
+    --grey-breadcrum: #aaaaaa;
+}
+
+body {
+    background-color: var(--background);
+    font-family: 'Rubik';
+}
+
+.icon {
+    width: 24px;
+    height: 24px;
+}
+
+.container {
+    max-width: 1140px;
+    margin: auto;
+}
+
+.section {
+    width: auto;
+}

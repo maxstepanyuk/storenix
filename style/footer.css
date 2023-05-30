@@ -1,0 +1,260 @@
+.footer {
+  margin: 140px auto 0;
+  position: relative;
+}
+
+.l-unconstrained {
+  position: relative;
+}
+
+.l-constrained {
+  margin: 0 auto;
+  position: relative;
+  width: 1140px;
+}
+
+.base-2 {
+  height: 1px;
+  position: relative;
+  width: 1140px;
+  background: #eeeeee;
+}
+
+.row-8 {
+  margin: 115px 0 0;
+  position: relative;
+  width: 1081px;
+}
+
+.col-7 {
+  float: left;
+  position: relative;
+  width: 303px;
+}
+
+.storenix-2 {
+  color: #222222;
+  font-size: 1.875rem;
+  /* 30px / 16px = 1.875rem */
+  font-weight: 500;
+}
+
+.text-8 {
+  margin: 15px 0 0;
+  font-size: 1rem;
+  /* 16px / 16px = 1rem */
+  line-height: 28px;
+}
+
+.text-9 {
+  margin: 22px 0 0;
+  font-size: 1.5rem;
+  /* 24px / 16px = 1.5rem */
+  font-weight: 500;
+}
+
+.row-12 {
+  margin: 34px 0 0;
+  position: relative;
+}
+
+.row-12>* {
+  float: left;
+  margin: 0 35px 0 0;
+}
+
+.row-12>*:last-child {
+  margin-right: 0 !important;
+}
+
+.icon-6 {
+  margin-top: 3px !important;
+}
+
+.icon-7 {
+  margin-top: 1px !important;
+}
+
+.icon-8 {
+  margin-top: 2px !important;
+}
+
+.icon-10 {
+  margin-top: 3px !important;
+}
+
+.col-10 {
+  float: right;
+  margin: 2px 0 0;
+  position: relative;
+  width: 110px;
+}
+
+.text-13 {
+  color: #222222;
+  font-size: 1rem;
+  /* 16px / 16px = 1rem */
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.row-15 {
+  margin: 27px 0 0;
+  position: relative;
+}
+
+.col-13 {
+  float: left;
+  margin: 10px 10px 0 0;
+  position: relative;
+  width: 7px;
+}
+
+.icon-22 {
+  display: block;
+}
+
+.icon-23 {
+  display: block;
+  margin: 22px 0 0;
+}
+
+.icon-24 {
+  display: block;
+  margin: 22px 0 0;
+}
+
+.icon-25 {
+  display: block;
+  margin: 22px 0 0;
+}
+
+.icon-26 {
+  display: block;
+  margin: 22px 0 0;
+}
+
+.text-14 {
+  float: left;
+  width: 93px;
+  line-height: 30px;
+}
+
+.col-9 {
+  float: right;
+  margin: 2px 89px 0 0;
+  position: relative;
+  width: 144px;
+}
+
+.text-11 {
+  color: #222222;
+  font-size: 1rem;
+  /* 16px / 16px = 1rem */
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.row-14 {
+  margin: 28px 0 0;
+  position: relative;
+}
+
+.col-12 {
+  float: left;
+  margin: 9px 10px 0 0;
+  position: relative;
+  width: 7px;
+}
+
+.icon-17 {
+  display: block;
+}
+
+.icon-18 {
+  display: block;
+  margin: 22px 0 0;
+}
+
+.icon-19 {
+  display: block;
+  margin: 22px 0 0;
+}
+
+.icon-20 {
+  display: block;
+  margin: 22px 0 0;
+}
+
+.icon-21 {
+  display: block;
+  margin: 22px 0 0;
+}
+
+.text-12 {
+  float: left;
+  width: 102px;
+  line-height: 30px;
+}
+
+.col-8 {
+  float: right;
+  margin: 2px 88px 0 0;
+  position: relative;
+  width: 161px;
+}
+
+.information {
+  color: #222222;
+  font-size: 1rem;
+  /* 16px / 16px = 1rem */
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.row-13 {
+  margin: 24px 0 0;
+  position: relative;
+}
+
+.col-11 {
+  float: left;
+  margin: 13px 11px 0 0;
+  position: relative;
+  width: 7px;
+}
+
+.icon-11 {
+  display: block;
+}
+
+.icon-12 {
+  display: block;
+  margin: 22px 0 0;
+}
+
+.icon-13 {
+  display: block;
+  margin: 22px 0 0;
+}
+
+.icon-14 {
+  display: block;
+  margin: 22px 0 0;
+}
+
+.icon-15 {
+  display: block;
+  margin: 22px 0 0;
+}
+
+.icon-16 {
+  display: block;
+  margin: 22px 0 0;
+}
+
+.text-10 {
+  float: left;
+  width: 143px;
+  line-height: 30px;
+}

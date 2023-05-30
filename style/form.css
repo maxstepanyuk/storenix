@@ -1,0 +1,163 @@
+.form-section *,
+.form-section *:after,
+.form-section *:before {
+    -webkit-box-sizing: inherit;
+    -moz-box-sizing: inherit;
+    box-sizing: inherit;
+}
+
+.login-form {
+    margin: 97px auto 0;
+    position: relative;
+    width: 1140px;
+}
+
+.row-3 {
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -moz-box-align: center;
+    align-items: center;
+    display: table;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -moz-box-pack: center;
+    justify-content: center;
+    margin: 0 auto;
+    position: relative;
+}
+
+.group:before,
+.group:after {
+    content: " ";
+    display: table;
+}
+
+.group:after {
+    clear: both;
+}
+
+.group {
+    zoom: 1;
+    /* ie 6/7 */
+}
+
+.col-4 {
+    display: inline-block;
+}
+
+.login {
+    color: #222222;
+    font-size: 1.5rem;
+    /* 24px / 16px = 1.5rem */
+    font-weight: 500;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.base {
+    height: 3px;
+    margin: 5px auto 0;
+    width: 50px;
+    background: #cc0d0d;
+}
+
+.register {
+    display: inline-block;
+    margin: 0 0 0 40px;
+    color: #cccccc;
+    font-size: 1.5rem;
+    /* 24px / 16px = 1.5rem */
+    font-weight: 500;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.base-holder {
+    margin: 50px auto 0;
+    min-height: 50px;
+    padding: 0 19px;
+    width: 360px;
+    background: #f8f8f8;
+    line-height: 50px;
+}
+
+.base-holder-2 {
+    margin: 20px auto 0;
+    min-height: 50px;
+    padding: 0 19px;
+    width: 360px;
+    background: #f8f8f8;
+    line-height: 50px;
+}
+
+.row-5 {
+    margin: 35px auto 0;
+    position: relative;
+    width: 371px;
+}
+
+.circle-holder {
+    float: left;
+    padding: 6px 0;
+    position: relative;
+    width: 20px;
+    border: 1px solid #dddddd;
+    /*stroke*/
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    background: #ffffff;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    /*Will not allow bg color to leak outside borders*/
+}
+
+.icon-4 {
+    display: block;
+    margin: 0 auto;
+}
+
+.text-5 {
+    float: left;
+    margin: 5px 0 0 9px;
+    color: #222222;
+    font-weight: 500;
+}
+
+.text-6 {
+    float: right;
+    margin: 5px 0 0;
+    color: #519fff;
+    text-decoration: underline;
+}
+
+.row-2 {
+    margin: 50px auto 0;
+    /* min-height: 56px; */
+    padding: 14px 16px;
+    /* position: relative; */
+    width: 360px;
+    border: 2px solid #666666;
+    background: #ffffff;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+}
+
+.text-7 {
+    float: left;
+    margin: 0 8px 0 0;
+    width: 54px;
+    color: #222222;
+    font-size: 1rem;
+    /* 16px / 16px = 1rem */
+    font-weight: 500;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.arrow {
+    float: left;
+    margin: 5px 0 0;
+}
