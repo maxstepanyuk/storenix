@@ -11,12 +11,12 @@ body {
     font-family: 'Rubik';
 }
 
-.icon{
+.icon {
     width: 24px;
     height: 24px;
 }
 
-.container{
+.container {
     max-width: 1140px;
     margin: auto;
 }
